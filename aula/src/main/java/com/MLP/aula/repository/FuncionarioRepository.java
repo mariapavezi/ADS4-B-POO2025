@@ -12,5 +12,4 @@ public interface FuncionarioRepository {
         funcionarios.add(funcionarioModel)
     }
     public List <FuncionarioModel> listar (FuncionarioModel funcionarioModel);
-
 }
